@@ -11,6 +11,7 @@
     "lint": "eslint ."
   },
   "private": true,
+  "proxy":"https://bible-verse.onrender.com",
   "dependencies": {
     "@angular/animations": "^16.1.0",
     "@angular/common": "^16.1.0",

@@ -1,1 +1,6 @@
-{ "version": 2, "rewrites": [{ "source": "/verse", "destination": "https://bible-api.com/?random=verse" }] }
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/verse", "destination": "https://bible-api.com/?random=verse" }
+  ]
+}
